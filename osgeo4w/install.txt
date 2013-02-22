@@ -1,0 +1,4 @@
+To create the package file you need to run the following commands:
+
+    cd /path/to/build/
+    tar --exclude='apps/mapproxy/src/.git*' --exclude='*DS_Store' -cvjf ../mapproxy/mapproxy-1.1.1-1.tar.bz2 apps etc

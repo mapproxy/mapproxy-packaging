@@ -1,0 +1,3 @@
+[submodule "osgeo4w/build/apps/mapproxy/src"]
+	path = osgeo4w/build/apps/mapproxy/src
+	url = git://github.com/mapproxy/mapproxy.git

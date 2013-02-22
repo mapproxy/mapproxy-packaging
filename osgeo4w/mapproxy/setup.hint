@@ -1,0 +1,7 @@
+sdesc: "MapProxy, an accelerating proxy for web map services"
+ldesc: "MapProxy is an open source proxy for geospatial data. It caches, 
+accelerates and transforms data from existing map services and serves any
+desktop or web GIS client."
+maintainer: Omniscale
+category: Web
+requires: python python-pil proj
